@@ -26,7 +26,7 @@
 ├── README.md
 └── LICENSE
 
-* Project Aprroach :
+* Project Approach :
 This project applies supervised machine learning techniques to identify patterns in historical weather data. The model learns relationships between variables such as temperature, humidity, wind speed, precipitation, pressure, and other meteorological features. After training, the model predicts future weather conditions with improved accuracy.
 
 The project is designed so that different machine learning algorithms (such as Linear Regression, Random Forest, or Decision Tree Regression) can be easily integrated and compared to evaluate forecasting performance.
